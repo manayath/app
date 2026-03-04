@@ -1,8 +1,0 @@
-[project]
-name = "dadjoke-bot"
-version = "1.0.0"
-description = "GitHub App that responds with dad jokes"
-requires-python = ">=3.12"
-dependencies = [
-    "flask>=3.0",
-]
