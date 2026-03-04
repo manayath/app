@@ -1,4 +1,4 @@
-# 🤡 DadJoke Bot — GitHub App
+# 🤡 DadJoke Webhook App
 
 A simple GitHub App that replies with a random dad joke whenever someone mentions `@dadjoke` in an issue or pull request comment.
 
